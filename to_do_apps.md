@@ -3,6 +3,8 @@
     - booking
     - rating
 
+# Accounts:
+    - manage users
 # Blog :
     - posts
     - categories
